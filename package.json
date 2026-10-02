@@ -1,0 +1,11 @@
+{
+  "name": "grain",
+  "version": "1.0.0",
+  "description": "A falling-sand sandbox on a chunked cellular automaton.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve ."
+  },
+  "license": "MIT"
+}
